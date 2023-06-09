@@ -7,6 +7,8 @@ body, html{
     background-color: #ffffff9f;
     align-items: center;
     justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 10px;
     padding-top: 15px;
 }
@@ -14,7 +16,7 @@ body, html{
 .foto1{
     max-width: 450px;
     height: 650px;
-    background-image: linear-gradient(#ffffff9f,#ffffff9f),url(./file/PL2.jpg);
+    background-image: linear-gradient(#ffffff9f,#ffffff9f),url(./files/PL2.jpg);
     background-position: center;
     background-size: cover;
     margin-left: auto;
@@ -47,7 +49,7 @@ h1{
 .foto2{
     max-width: 450px;
     height: 650px;
-    background-image: linear-gradient(#ffffff9f,#ffffff9f),url(./file/PL.jpg);
+    background-image: linear-gradient(#ffffff9f,#ffffff9f),url(./files/PL.jpg);
     background-position: center;
     background-size: cover;
     margin-left: auto;
