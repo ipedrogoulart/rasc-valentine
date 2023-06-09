@@ -2,7 +2,7 @@ body, html{
     background-color: black;
 }
 .bodytodo{
-    width: 450px;
+    width: 420px;
     height: 2450px;
     background-color: #ffffff9f;
     align-items: center;
@@ -14,7 +14,7 @@ body, html{
 }
 
 .foto1{
-    max-width: 430px;
+    max-width: 410px;
     height: 650px;
     background-image: linear-gradient(#ffffff9f,#ffffff9f),url(./files/PL2.jpg);
     background-position: center;
@@ -47,7 +47,7 @@ h1{
 }
 
 .foto2{
-    max-width: 430px;
+    max-width: 410px;
     height: 650px;
     background-image: linear-gradient(#ffffff9f,#ffffff9f),url(./files/PL.jpg);
     background-position: center;
