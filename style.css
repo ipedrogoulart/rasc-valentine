@@ -1,0 +1,57 @@
+body, html{
+    background-color: black;
+}
+.bodytodo{
+    width: 480px;
+    height: 2250px;
+    background-color: #ffffff9f;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    padding-top: 15px;
+}
+
+.foto1{
+    max-width: 450px;
+    height: 650px;
+    background-image: linear-gradient(#ffffff9f,#ffffff9f),url(./file/PL2.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.text{
+    max-width: 380px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -650px;
+    font-size: 20px;
+}
+
+.beyonce{
+    color:#4b0392;
+}
+
+.taylor{
+    color: #910000;
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.foto2{
+    max-width: 450px;
+    height: 650px;
+    background-image: linear-gradient(#ffffff9f,#ffffff9f),url(./file/PL.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -715px;
+    border-radius: 20px;
+}
